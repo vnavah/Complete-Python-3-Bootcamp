@@ -1,6 +1,8 @@
-from mymainpackage import some_main_script
-from mymainpackage.mysubpackage import mysubscripd
+# from mymodule import my_func
+
+# my_func()
+from MyMainPackage import some_main_script
+from MyMainPackage.SubPackage import mysubscript
 
 some_main_script.report_main()
-
-mysubscripd.sub_report()
+mysubscript.sub_report()
