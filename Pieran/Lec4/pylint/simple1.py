@@ -1,5 +1,5 @@
 """
-A very simple script
+A very simple script to test pylint
 """
 
 
